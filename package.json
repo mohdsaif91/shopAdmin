@@ -3,6 +3,9 @@
 	"version": "0.1.0",
 	"private": true,
 	"homepage": "http://lite.codedthemes.com/datta-able/react/default/",
+	"engines": {
+		"node": "12.18.4"
+	},
 	"dependencies": {
 		"axios": "^0.20.0",
 		"bootstrap": "^4.5.2",
